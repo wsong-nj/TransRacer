@@ -1,0 +1,6 @@
+web3==4.8.3
+py-evm==0.3.0a1
+py-solc-x==0.5.0
+z3-solver
+pysha3
+requests
