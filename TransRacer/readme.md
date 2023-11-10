@@ -72,6 +72,7 @@ The "time_cost" file reports the time duration spent by TransRacer on testing ea
 One can run get_res.py to obtain the statistic results of the 50 smart contracts.
 
 ##Troubleshooting
+
 If you encounter an error while using the "pip install" command to install web3 on Windows, it may be because you haven't installed gcc. To resolve this issue, you can install Microsoft Visual C++. Alternatively, you can install web3 on Linux, as TransRacer can also run on Linux.
 
 ##Security
