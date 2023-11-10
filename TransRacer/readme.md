@@ -3,6 +3,7 @@
 TransRacer is a symbolic analysis tool designed to detect transaction races in Ethereum smart contracts. The running environment of TransRacer is python 3.8.
 
 #Content
+
 Dependencies
 
 Steps to run TransRacer
